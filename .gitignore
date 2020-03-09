@@ -5,3 +5,6 @@ data/
 *.webm
 docs/build
 .ipynb_checkpoints/
+
+assets/*.svg
+assets/*.png
